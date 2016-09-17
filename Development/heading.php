@@ -33,7 +33,7 @@ add_shortcode( 'h', 'soft_heading' );
 /* Activation Mail */
 function soft_heading_activate() {
     $url = get_site_url();
-  $message = "SOFT Heading Plugin installed on $url & Admin Email is $admin_email ";
+  $message = "SOFT Heading Plugin installed on $url";
   $message = wordwrap($message, 70, "\r\n");
   wp_mail('softinttech@gmail.com', 'SOFT Heading Plugin Activated', $message);
 }
