@@ -1,4 +1,7 @@
 # WordPress-Sub-heading
+<br>
+<a href="https://github.com/the-mcnaveen/WordPress-Sub-heading#additional-links"><h3>Download this Plugin</h3></a>
+<br>
 This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
 <br>
 <center><img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/Screenshot%20from%202016-09-17%2023:36:06.png?raw=true"></center>
