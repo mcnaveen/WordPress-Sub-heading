@@ -1,0 +1,21 @@
+.soft {
+    display: block;
+font-size: 19px;
+line-height: 1;
+color: white;
+border-left: 40px solid #fe286c;
+background: #0b87ff;
+padding: 10px 20px 1px 0px;
+margin: 20px 20px 20px 10px;
+box-shadow: 3px 3px 5px #888888;
+border-radius: 2px;
+}
+.soft small {
+    font-size: 13px;
+    color: #266289;
+    line-height: 10px
+}
+.soft p {
+    margin-bottom: 10px!important;
+    margin-left: 5px!important;
+}
