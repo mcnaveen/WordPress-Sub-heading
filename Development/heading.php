@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: SOFT Heading
+ * Plugin URI: http://bit.ly/2cyJ8NT
  * Description: Custom styled sub-heading for title
  * Version: 1.0
  * Author: SOFTINTTECH
