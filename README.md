@@ -7,7 +7,15 @@ This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
 <li> Made with Responsive in Mind</li>
 <li> Works well with both Paid & Free themes</li>
 <li><b>Won't affect your Article Contents based on <i>SEO</i></b></li>
-
+<br>
+<h3>Usage</h3>
+For the Easy access it can be done by Shortcode
+use this shortcode in post.
+<br>
+<pre>[h]your text[/h]</pre>
+<br>
+<img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/32.png?raw=true">
+<br>
 <h3>Additional Links</h3>
 <a href="http://bit.ly/2cuO8Bn" target="_blank"><input type="button" id="button" style="
     font-weight: bold;
