@@ -10,7 +10,7 @@ Features of this Plugin :
 
 <h3>Additional Links</h3>
 <br>
-<a href="http://bit.ly/2cOwH1T"  id="button" style="
+<a href="http://bit.ly/2cOwH1T"><input type="button" id="button" style="
     font-weight: bold;
     padding: 7px 9px;    
     background-color: Red;   
