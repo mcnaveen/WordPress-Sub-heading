@@ -1,4 +1,4 @@
-# WordPress-Sub-heading
+# WordPress-Sub-heading v1.1
 <br>
 <a href="https://github.com/the-mcnaveen/WordPress-Sub-heading#additional-links"><h3>Download this Plugin</h3></a>
 <br>
