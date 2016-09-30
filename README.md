@@ -10,6 +10,9 @@ This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
 <li> Made with Responsive in Mind</li>
 <li> Works well with both Paid & Free themes</li>
 <li><b>Won't affect your Article Contents based on <i>SEO</i></b></li>
+<li> Control Panel to Change the Colours</li>
+<br>
+<li><b><i>Note: Color won't appear unless you set the color in Control Panel</i></b></li>
 <br>
 <h3>Usage</h3>
 For the Easy access it can be done by Shortcode
@@ -20,98 +23,10 @@ use this shortcode in post.
 <img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/32.png?raw=true">
 <br>
 <h3>Additional Links</h3>
-<a href="http://bit.ly/2cuO8Bn" target="_blank"><input type="button" id="button" style="
-    font-weight: bold;
-    padding: 7px 9px;    
-    background-color: Red;   
-    color: #fff !important;
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    cursor: pointer;
-    text-decoration: none;
-    text-shadow: 0 1px 0px rgba(0,0,0,0.15);
-    border-width: 1px 1px 3px !important;
-    border-style: solid;
-    border-color: #3ac162;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -moz-inline-stack;
-    display: inline-block;
-    vertical-align: middle;
-    zoom: 1;
-    border-radius: 3px;
-    box-sizing: border-box;
-    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;" class="button">Demo</a>
+<a href="http://bit.ly/2cuO8Bn">Demo</a>
 <br>
-<a href="http://bit.ly/2cOwH1T"><input type="button" id="button" style="
-    font-weight: bold;
-    padding: 7px 9px;    
-    background-color: Red;   
-    color: #fff !important;
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    cursor: pointer;
-    text-decoration: none;
-    text-shadow: 0 1px 0px rgba(0,0,0,0.15);
-    border-width: 1px 1px 3px !important;
-    border-style: solid;
-    border-color: #3ac162;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -moz-inline-stack;
-    display: inline-block;
-    vertical-align: middle;
-    zoom: 1;
-    border-radius: 3px;
-    box-sizing: border-box;
-    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;" class="button">Download</a>
+<a href="http://bit.ly/2dsfyHZ">Download</a>
 <br>
-<a href="http://bit.ly/2cFydkX"  id="button" style="
-    font-weight: bold;
-    padding: 7px 9px;    
-    background-color: #5fcf80;   
-    color: #fff !important;
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    cursor: pointer;
-    text-decoration: none;
-    text-shadow: 0 1px 0px rgba(0,0,0,0.15);
-    border-width: 1px 1px 3px !important;
-    border-style: solid;
-    border-color: #3ac162;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -moz-inline-stack;
-    display: inline-block;
-    vertical-align: middle;
-    zoom: 1;
-    border-radius: 3px;
-    box-sizing: border-box;
-    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;" class="button">Report an Issue</a>
-    <br>
- <a href="http://bit.ly/2cgUWWW"  id="button" style="
-    font-weight: bold;
-    padding: 7px 9px;    
-    background-color: #5fcf80;   
-    color: #fff !important;
-    font-size: 12px;
-    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    cursor: pointer;
-    text-decoration: none;
-    text-shadow: 0 1px 0px rgba(0,0,0,0.15);
-    border-width: 1px 1px 3px !important;
-    border-style: solid;
-    border-color: #3ac162;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -moz-inline-stack;
-    display: inline-block;
-    vertical-align: middle;
-    zoom: 1;
-    border-radius: 3px;
-    box-sizing: border-box;
-    box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;" class="button">Development</a>
+<a href="http://bit.ly/2cFydkX">Report an Issue</a>
+<br>
+<a href="http://bit.ly/2cgUWWW">Development</a>
