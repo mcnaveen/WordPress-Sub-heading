@@ -23,7 +23,8 @@ use this shortcode in post.
 <img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-3.png?raw=true">
 <br>
 <br>
-<b>Setting Page</b>
+<h3>Settings Page</h3>
+<br>
 <br>
 <img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-2.png?raw=true">
 <br>
