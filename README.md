@@ -1,10 +1,10 @@
 # WordPress-Sub-heading v1.0
 <br>
-<center><img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/icon-256-256.png?raw=true" style="width:128px; height:128px;"></center>
+<img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/icon-128×128.png">
 <br>
 This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
 <br>
-<center><img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/Screenshot%20from%202016-09-17%2023:36:06.png?raw=true"></center>
+<center><img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-1.png?raw=true"></center>
 <br>
 <h3>Features of this Plugin :</h3>
 <li> Made with Responsive in Mind</li>
@@ -20,7 +20,12 @@ use this shortcode in post.
 <br>
 <pre>[h]your text[/h]</pre>
 <br>
-<img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/32.png?raw=true">
+<img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-3.png?raw=true">
+<br>
+<br>
+<b>Setting Page</b>
+<br>
+<img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-2.png?raw=true">
 <br>
 <h3>Additional Links</h3>
 <a href="http://bit.ly/2cuO8Bn">Demo</a>
