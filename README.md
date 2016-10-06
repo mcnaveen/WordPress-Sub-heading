@@ -1,6 +1,4 @@
-# WordPress-Sub-heading v1.2
-<br>
-<a href="https://github.com/the-mcnaveen/WordPress-Sub-heading#additional-links"><h3>Download this Plugin</h3></a>
+# WordPress-Sub-heading v1.0
 <br>
 This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
 <br>
@@ -24,8 +22,6 @@ use this shortcode in post.
 <br>
 <h3>Additional Links</h3>
 <a href="http://bit.ly/2cuO8Bn">Demo</a>
-<br>
-<a href="http://bit.ly/2dsfyHZ">Download</a>
 <br>
 <a href="http://bit.ly/2cFydkX">Report an Issue</a>
 <br>
