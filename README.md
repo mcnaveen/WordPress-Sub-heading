@@ -2,7 +2,7 @@
 <br>
 <img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/icon-128×128.png">
 <br>
-This WordPress Plugin helps you to display a Sub-Heading similar to ShoutMeLoud
+This WordPress Plugin helps you to display a Sub-Heading Banner
 <br>
 <center><img src="https://github.com/the-mcnaveen/WordPress-Sub-heading/blob/master/screenshot-1.png?raw=true"></center>
 <br>
